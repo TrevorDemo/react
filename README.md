@@ -1,4 +1,6 @@
-# [React](http://facebook.github.io/react) [![Build Status](https://travis-ci.org/facebook/react.svg?branch=master)](https://travis-ci.org/facebook/react)
+# This repo is used ONLY FOR DEMO PURPOSES.
+
+## [React](http://facebook.github.io/react) [![Build Status](https://travis-ci.org/facebook/react.svg?branch=master)](https://travis-ci.org/facebook/react)
 
 React is a JavaScript library for building user interfaces.
 
